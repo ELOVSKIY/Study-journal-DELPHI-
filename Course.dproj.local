@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.508,=C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.437,=C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.574,=C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.464,=C:\Users\WORKSPACE\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.808,C:\Users\WORKSPACE\Desktop\Toma_Course\NewGroupFormUnit.pas=C:\Users\WORKSPACE\Desktop\Toma_Course\SchedulerFormUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.206,=C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.898,=C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.661,=C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.506,=C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.159,=C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.976,C:\Users\WORKSPACE\Desktop\Toma_Course\GroupFormUnit.pas=C:\Users\WORKSPACE\Desktop\Toma_Course\Group.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,C:\Users\WORKSPACE\Desktop\Toma_Course\Group.dfm=C:\Users\WORKSPACE\Desktop\Toma_Course\GroupFormUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.390,C:\Users\WORKSPACE\Desktop\Toma_Course\Group.dfm=C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.686,C:\Users\WORKSPACE\Desktop\Toma_Course\SkippingClass.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.808,C:\Users\WORKSPACE\Desktop\Toma_Course\NewGroupFormUnit.dfm=C:\Users\WORKSPACE\Desktop\Toma_Course\SchedulerFormUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.379,C:\Users\WORKSPACE\Desktop\Toma_Course\SkippingClass.pas=C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.230,C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.dfm=C:\Users\WORKSPACE\Desktop\Toma_Course\Week.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.305,C:\Users\WORKSPACE\Desktop\Toma_Course\GroupClass.pas=C:\Users\WORKSPACE\Desktop\Toma_Course\Group.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.828,C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.dfm=C:\Users\WORKSPACE\Desktop\Toma_Course\StudentFormUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.402,C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.dfm=C:\Users\WORKSPACE\Desktop\Toma_Course\SchedulerFormUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.380,C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.dfm=C:\Users\WORKSPACE\Desktop\Toma_Course\ShedulerFormUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,C:\Users\WORKSPACE\Desktop\Toma_Course\ZColorStringGrid.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.333,C:\Users\WORKSPACE\Desktop\Toma_Course\InputName.dfm=C:\Users\WORKSPACE\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.286,C:\Users\WORKSPACE\Desktop\Toma_Course\ZColorStringGrid.pas=C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.203,C:\Users\WORKSPACE\Desktop\Toma_Course\MissingClass.pas=C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.119,C:\Users\WORKSPACE\Desktop\Toma_Course\Course.dproj=C:\Users\WORKSPACE\Documents\Embarcadero\Studio\Projects\Project8.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.390,C:\Users\WORKSPACE\Desktop\Toma_Course\Group.pas=C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,C:\Users\WORKSPACE\Desktop\Toma_Course\Group.pas=C:\Users\WORKSPACE\Desktop\Toma_Course\GroupFormUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.094,C:\Users\WORKSPACE\Desktop\Toma_Course\Group.pas=C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.976,C:\Users\WORKSPACE\Desktop\Toma_Course\GroupFormUnit.dfm=C:\Users\WORKSPACE\Desktop\Toma_Course\Group.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.588,C:\Users\WORKSPACE\Desktop\Toma_Course\SchedulerFormUnit.dfm=C:\Users\WORKSPACE\Desktop\Toma_Course\ShedulerFormUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.505,C:\Users\WORKSPACE\Desktop\Toma_Course\MissingClass.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.828,C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas=C:\Users\WORKSPACE\Desktop\Toma_Course\StudentFormUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.303,=C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.230,C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas=C:\Users\WORKSPACE\Desktop\Toma_Course\Week.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.402,C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas=C:\Users\WORKSPACE\Desktop\Toma_Course\SchedulerFormUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.064,C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas=C:\Users\WORKSPACE\Desktop\Toma_Course\ShedulerClassUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.333,C:\Users\WORKSPACE\Desktop\Toma_Course\InputName.pas=C:\Users\WORKSPACE\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.588,C:\Users\WORKSPACE\Desktop\Toma_Course\SchedulerFormUnit.pas=C:\Users\WORKSPACE\Desktop\Toma_Course\ShedulerFormUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.249,C:\Users\WORKSPACE\Desktop\Toma_Course\InputName.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.977,=C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.380,C:\Users\WORKSPACE\Desktop\Toma_Course\Unit1.pas=C:\Users\WORKSPACE\Desktop\Toma_Course\ShedulerFormUnit.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ShedulerClassUnit.pas"/>
+    <File Path="GroupClass.pas"/>
+    <File Path="Week.pas"/>
+    <File Path="Week.dfm"/>
+    <File Path="Group.pas"/>
+    <File Path="Group.dfm"/>
+    <File Path="StudentFormUnit.pas"/>
+    <File Path="StudentFormUnit.dfm"/>
+    <File Path="SchedulerFormUnit.pas"/>
+    <File Path="SchedulerFormUnit.dfm"/>
+    <File Path="NewGroupFormUnit.pas"/>
+    <File Path="NewGroupFormUnit.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
